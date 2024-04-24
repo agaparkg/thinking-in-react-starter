@@ -35,7 +35,7 @@ function App() {
             <tr>
               <td>Passionfruit</td>
               <td>$2</td>
-              <td style={{ backgroundColor: "none" }}>No</td>
+              <td style={{ backgroundColor: "red" }}>No</td>
             </tr>
             <tr style={{ backgroundColor: "lightgrey" }}>
               <th colSpan={3}>Vegetables</th>
@@ -48,7 +48,7 @@ function App() {
             <tr>
               <td>Pumpkin</td>
               <td>$4</td>
-              <td style={{ backgroundColor: "none" }}>No</td>
+              <td style={{ backgroundColor: "red" }}>No</td>
             </tr>
             <tr>
               <td>Peas</td>
