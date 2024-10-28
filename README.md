@@ -4,7 +4,7 @@ React can change how you think about the designs you look at and the apps you bu
 
 # Break the UI into a component hierarchy
 
-![component-hierarchy](./src/assets/component-hierarchy.png)
+![component-hierarchy](./src/assets/hierarchy.png)
 
 1. `FilterableProductTable` (grey) contains the entire app.
 2. `SearchBar` (blue) receives the user input.
