@@ -6,6 +6,12 @@ React can change how you think about the designs you look at and the apps you bu
 
 ![component-hierarchy](./src/assets/component-hierarchy.png)
 
+1. `FilterableProductTable` (grey) contains the entire app.
+2. `SearchBar` (blue) receives the user input.
+3. `ProductTable` (lavender) displays and filters the list according to the user input.
+4. `ProductCategoryRow` (green) displays a heading for each category.
+5. `ProductRow` (yellow) displays a row for each product.
+
 ### UI output
 
 ![view](./src/assets/view.png)
