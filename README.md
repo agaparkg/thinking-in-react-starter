@@ -1,12 +1,15 @@
-# React + Vite
+# Thinking in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React can change how you think about the designs you look at and the apps you build. When you build a user interface with React, you will first break it apart into pieces called components. Then, you will describe the different visual states for each of your components. Finally, you will connect your components together so that the data flows through them.
 
-Currently, two official plugins are available:
+# Break the UI into a component hierarchy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![component-hierarchy](./src/assets/component-hierarchy.png)
 
 ### UI output
 
 ![view](./src/assets/view.png)
+
+# React + Vite
+
+This project was generated using Vite build tool.
